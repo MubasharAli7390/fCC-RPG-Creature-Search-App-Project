@@ -1,2 +1,2 @@
 # fCC-RPG-Creature-Search-App-Project
-This is a project I made for the fCC Legacy JavaScript Algorithms and Data Structures V8 Certification. 
+This is a project I made for the fCC Legacy JavaScript Algorithms and Data Structures V8 Certification. This is the 5th and last project for the certification. The other 4 projects are also uploaded to my profile but the name of the certifcation mentioned in their (the rest of the 4 projects) is simply "JavaScript algorithms and Data Structures" because fCC changed the name of the certifiation afterwords.
