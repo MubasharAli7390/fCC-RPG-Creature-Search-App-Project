@@ -1,0 +1,22 @@
+* {
+  font-family: 'Arial, sans-serif'
+}
+
+
+body {
+  font-family: 'Arial, sans-serif';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+}
+#main {
+  margin-top: 10vh;
+  height: 100vh;
+  width: fit-content;
+  background-color: lightblue;
+}
+
+.type {
+  margin-right: 2vh;
+}
